@@ -1,0 +1,4 @@
+11:54:49,332  INFO com.listners.WebEventListner<strong>{1}</strong>:22 - Before Navigation:'https://sweb-telematic.my.hyundaiusa.com/myhyundai'
+11:54:53,205  INFO com.listners.WebEventListner<strong>{1}</strong>:27 - Navigated to:'https://sweb-telematic.my.hyundaiusa.com/myhyundai'
+11:54:53,248  INFO com.listners.WebEventListner<strong>{1}</strong>:83 - Trying to find Element By : By.xpath: //*[@id="myhyundainewlogo"]/a/img
+11:54:53,265  INFO com.listners.WebEventListner<strong>{1}</strong>:88 - Found Element By : By.xpath: //*[@id="myhyundainewlogo"]/a/img

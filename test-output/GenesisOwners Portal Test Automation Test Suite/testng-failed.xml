@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GenesisOwners Portal Test Automation Test Suite]">
+  <test name="Genesis Owners Portal Test Cases + Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.testCases.LoginFrameTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testCases.LoginFrameTest -->
+    </classes>
+  </test> <!-- Genesis Owners Portal Test Cases + Chrome(failed) -->
+</suite> <!-- Failed suite [GenesisOwners Portal Test Automation Test Suite] -->
